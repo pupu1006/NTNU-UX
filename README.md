@@ -1,1 +1,1 @@
-# NTNU-UX
+# onlyux
